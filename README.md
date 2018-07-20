@@ -1,5 +1,5 @@
 # tinyPHP
-A tiny set of functions to connect to MySQL using PHP preventing SQL Injections.
+A tiny set of functions to connect to MySQL.
 
 # How to use?
 
