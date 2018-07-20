@@ -37,3 +37,4 @@ process_results($results,$query_params,'f_results','f_default');
 // Close the connection
 $conn->close();
 ```
+For further support click <a href="https://www.giuseppefarinacci.it/post.php?id_post=4">here</a>.
