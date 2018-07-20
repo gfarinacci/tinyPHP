@@ -1,7 +1,8 @@
 # tinyPHP
 A tiny set of functions to connect to MySQL using PHP
 
-How to use?
+# How to use?
+
 Edit the tinyPHP.php file and insert your data in:
 ```
 $db_params = array('localhost', 'user', 'password', 'database');
