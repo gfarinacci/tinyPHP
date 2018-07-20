@@ -5,7 +5,7 @@
         $conn = new mysqli($db_params[0], $db_params[1], $db_params[2], $db_params[3]);
         
         // Check connection
-	    if ($conn->connect_error) {
+	if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
             return -1;
         } else {
