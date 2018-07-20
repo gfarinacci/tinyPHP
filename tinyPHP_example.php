@@ -10,7 +10,7 @@
     $sql = build_query($conn, $query, $query_params);
 
     // Get the results
-	$results = $conn->query($sql);
+    $results = $conn->query($sql);
 
     // Define parameters, the function to display the results and the default function
     $query_params = ['firstname','lastname'];
